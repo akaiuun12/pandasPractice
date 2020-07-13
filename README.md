@@ -1,2 +1,2 @@
 # pandasPractice
-files for panda lecture in akaiuun12.github.io
+files for pandas lecture in akaiuun12.github.io
